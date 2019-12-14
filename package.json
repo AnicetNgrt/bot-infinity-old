@@ -1,0 +1,26 @@
+{
+  "name": "infinity",
+  "version": "0.0.1",
+  "description": "Bot infinity",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.6.0",
+    "translate": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "devDependencies": {},
+  "repository": {},
+  "author": "Mr Rom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrRom0/InfinityBOT/issues"
+  },
+  "homepage": "https://github.com/MrRom0/InfinityBOT#readme"
+}
